@@ -20,21 +20,21 @@ python3 src/app.py
 - Browse and select image
 
 <p align ="center">
-  <img src="/Users/arnavphatkar/Downloads/object-remove-main/1.png" width="1000" />
+  <img src="/1.png" width="1000" />
   <em></em>
 </p>
 
 - Select the desired object which need to be removed
 
 <p align ="center">
-  <img src="/Users/arnavphatkar/Downloads/object-remove-main/2.png" width="1000" />
+  <img src="/2.png" width="1000" />
   <em></em>
 </p>
 
 - Press "Enter" to remove object. (If you want to reset selection press "R")
 
 <p align ="center">
-  <img src="/Users/arnavphatkar/Downloads/object-remove-main/3.png" width="1000" />
+  <img src="/3.png" width="1000" />
   <em></em>
 </p>
 
@@ -42,11 +42,11 @@ python3 src/app.py
 Following are some results. 
 
 <p align ="center">
-  <img src="/Users/arnavphatkar/Downloads/object-remove-main/ip.jpeg" width="1000" />
+  <img src="/ip.jpeg" width="1000" />
   <em></em>
 </p>
 <p align ="center">
-  <img src="/Users/arnavphatkar/Downloads/object-remove-main/op.png" width="1000" />
+  <img src="/op.png" width="1000" />
   <em></em>
 </p>
 
